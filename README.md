@@ -1,1 +1,1 @@
-# Computer Aided Diagnosis of Pap Smears
+# Computer Aided Diagnosis of Leukemia
